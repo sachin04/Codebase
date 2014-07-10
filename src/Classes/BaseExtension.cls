@@ -2,7 +2,7 @@
 * Acts as the base class for different classes New AccountOverride Ext, Edit contact, Lead Conversion
 * Contains common functionalities
 */
-public without sharing virtual class  BaseExtension {
+public without sharing virtual class  BaseExtension1 {
   public list<SelectOption> lstOpptyRecordType{get;set;}
   public Lead currentLead{get;set;}
   
